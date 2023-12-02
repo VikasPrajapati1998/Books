@@ -1,0 +1,11 @@
+Book : SK Shreevastav, CLRS Algorithms
+Link : 
+		1. https://cp-algorithms.com/
+		2. https://cses.fi/problemset/
+
+Youtuber : 	1. Dynamic Programming : Love Babbar
+			2. Data Structure By Aditya Verma
+
+Job Portal : 1. https://wellfound.com/
+			 2. https://www.ycombinator.com/
+
